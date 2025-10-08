@@ -16,7 +16,7 @@ La conectividad con el servidor es correcta, así que revisamos la petición.
 Endpoint: POST `/api/v1/login`
 \
 Cabeceras a revisar: `Content-Type: application/json`
-```
+```bash
 curl -i -X POST https://api.ejemplo.com/api/v1/login 
 \
   -H "Content-Type: application/json" \
