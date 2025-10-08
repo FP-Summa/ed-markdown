@@ -8,7 +8,7 @@ La conectividad con el servidor es correcta, así que revisamos la petición.
 ## Acciones
 * Endpoint: ```POST /api/v1/login```
 * Cabeceras a revisar: ```Content-Type: application/json```
-```
+```shell
 curl -i -X POST https://api.ejemplo.com/api/v1/login \
   -H "Content-Type: application/json" \
   -d '{"email":"demo@ejemplo.com","password":"demo123"}'
