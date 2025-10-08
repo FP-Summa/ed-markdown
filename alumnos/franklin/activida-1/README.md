@@ -18,7 +18,7 @@ Además, revisamos el <code>Gradle Wrapper</code> (8.7) y ejecutamos la app de e
  
 ```
 
-### Resultado
+### Resultado:
 ---
 El arranque fue correcto; el problema de inicio ~~persistente~~ quedó resuelto.
 
