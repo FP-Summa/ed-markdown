@@ -36,5 +36,15 @@
 
 ## Responsables (tabla GFM)
 
-| TAREA 
+| Tarea                 | Responsable | Prioridad |
+|-----------------------|------------|-----------|
+| Crear repo            | Laura      | Alta      |
+| Configurar CI         | Marc       | Media     |
+| Instalar herramientas | Equipo     | Alta      |
+
+## Definiciones (opcional)
+
+CI : Integración continua: ejecuciones automáticas para **build** y pruebas.
+
+Demo mínima : Versión funcional con lo básico; suficiente para **mostrar valor**.
 
