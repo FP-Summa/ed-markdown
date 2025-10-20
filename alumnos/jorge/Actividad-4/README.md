@@ -13,11 +13,12 @@ Comprobar credenciales y devolver **token** si son válidas.
 • [ ] ```POST /api/v1/users``` (registro)
 • [ ] ```POST /api/v1/login``` (login)
 ## Esquema de BD (tabla GFM)
-**Campo**	**Tipo**	**Requerido**
-id	entero	sí
-email	**texto**	sí
-password_hash	```texto```	sí
-created_at	fecha	no
+| **Campo**        | **Tipo** | **Requerido** |
+|:-----------------|:---------|:--------------|
+| id               | entero   | sí            |
+| email            | **texto**    | sí            |
+| password_hash    | ```texto```    | sí            |
+| created_at       | fecha    | no            |
 ## Definiciones (opcional)
 Hash : Función **unidireccional** para almacenar contraseñas de forma segura.
 Token : Credencial **temporal** para acceder a la API tras el login.
