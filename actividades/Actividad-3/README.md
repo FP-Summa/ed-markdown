@@ -27,7 +27,7 @@ Cada dev instala herramientas y valida que el proyecto compila en su equipo.
 Demo mínima.
 Una pantalla inicial que muestre Hola y un botón funcional.
 Checklist del sprint (GFM)
-[x] Crear repositorio
+Checklist del sprint (GFM)
 [ ] Configurar CI
 [ ] Instalar Android Studio y JDK
 Responsables (tabla GFM)
