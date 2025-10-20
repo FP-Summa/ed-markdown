@@ -1,11 +1,3 @@
-# Actividad 6
-
-## Instrucciones
-
-1. Crea una carpeta en `/alumnos/tu-nombre/Actividad-5` y dentro un fichero README.md que 
-partiendo del `texto de partida` muestre la `Salida esperada`.
-
----
 
 ## Texto de partida
 ```plaintext
