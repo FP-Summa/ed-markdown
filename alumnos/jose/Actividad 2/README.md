@@ -18,7 +18,7 @@ curl -i -X POST https://api.ejemplo.com/api/v1/login \
   -H "Content-Type: application/json" \
   -d '{"email":"demo@ejemplo.com","password":"demo123"}'
 ```
->“No puedo iniciar sesión desde esta mañana.” — cliente
+>“No puedo iniciar sesión desde essta mañana.” — cliente
 ## Conclusión
 La causa más probable es un **header ausente** o un **campo mal escrito** (p. ej., email vs. username).
 Próxima acción: corregir la request y repetir la prueba (esperamos **200 OK** y token de sesión).
