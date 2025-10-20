@@ -22,11 +22,11 @@ Una pantalla inicial que muestre Hola y un botón funcional.
 
 • [ ] Instalar Android Studio y JDK
 ## Responsables (tabla GFM)
-|Tarea	|Responsable	Prioridad|
-|:------|
-|Crear repo	|Laura	Alta|
-|Configurar CI	|Marc	Media|
-|Instalar herramientas	|Equipo	Alta|
+|**Tarea**	            |**Responsable	Prioridad**    |
+|:----------------------|:---------------:|-----------:|
+|Crear repo	            |**Laura	Alta**             |
+|Configurar CI	        |Marc	Media                  |
+|Instalar herramientas	|Equipo	**Alta**               |
 ## Definiciones (opcional)
 CI : Integración continua: ejecuciones automáticas para **build** y pruebas.
 
