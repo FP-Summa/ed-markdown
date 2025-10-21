@@ -13,10 +13,10 @@ ___
 - CI básico configurado
 ## Plan de trabajo (numerado)
 1. Revisar requisitos y limitar alcance a una demo mínima.\
-Este punto aclara qué entra y qué no entra en el sprint, para evitar confusiones y cambios de última hora.
+Este punto aclara **qué entra** y **qué no entra** en el sprint, para evitar confusiones y cambios de última hora.
 
 2. Preparar entorno de desarrollo.\
-Cada dev instala herramientas y valida que el proyecto compila en su equipo.
+Cada dev instala herramientas y valida que el proyecto **compila** en su equipo.
 
 3. Demo mínima.\
 Una pantalla inicial que muestre Hola y un botón funcional.
@@ -26,11 +26,11 @@ Una pantalla inicial que muestre Hola y un botón funcional.
 - [ ] Configurar CI
 - [ ] Instalar Android Studio y JDK
 ## Responsables (tabla GFM)
-Tarea	Responsable	Prioridad
-
-Crear repo	Laura	Alta
-Configurar CI	Marc	Media
-Instalar herramientas	Equipo	Alta
-Definiciones (opcional)
-CI : Integración continua: ejecuciones automáticas para build y pruebas.
-Demo mínima : Versión funcional con lo básico; suficiente para mostrar valor.
+|**Tarea**|	**Responsable**	| **Prioridad**|
+|---------|-----------------|--------------|                                       
+Crear repo|	**Laura**	|**Alta**
+Configurar CI|	Marc|	Media
+Instalar herramientas|	Equipo|	**Alta**
+## Definiciones (opcional)
+CI : Integración continua: ejecuciones automáticas para **build** y pruebas.\
+Demo mínima : Versión funcional con lo básico; suficiente para **mostrar valor.**
