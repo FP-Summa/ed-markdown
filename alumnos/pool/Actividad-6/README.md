@@ -12,3 +12,4 @@ Consulta la [guía de uso de curl](guía-de-uso-de-curl) para más ejemplos.
 ![Diagrama de arquitectura](/actividades/Actividad-6/assets/arquitectura.png)![módulo Respuesta 200 OK](/actividades/Actividad-6/assets/200.png)          
 
 [Volver arriba](Volver-arriba)
+
