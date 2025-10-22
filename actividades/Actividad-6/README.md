@@ -12,7 +12,7 @@ partiendo del `texto de partida` muestre la `Salida esperada`.
 Guía del módulo: Usuarios
 Accesos rápidos: Resumen · Pasos · Evidencias
 Resumen
-Este módulo gestiona altas de usuario mediante el endpoint POST descrito aquí:
+Este módulo gestiona altas de usuario mediante el endpoint **`POST`** descrito aquí:
 API Users.
 Repositorio del backend (autolink): https://github.com/org/backend-usuarios
 Pasos
