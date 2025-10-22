@@ -13,9 +13,12 @@ Conectividad OK (no es un problema de red).
 - Endpoint: `POST /api/v1/login`
 - Cabeceras a revisar: `Content-Type: application/json`  
  
-<code>curl -i -X POST https://api.ejemplo.com/api/v1/login \
+
+```bash
+curl -i -X POST https://api.ejemplo.com/api/v1/login \
   -H "Content-Type: application/json" \
-  -d '{"email":"demo@ejemplo.com","password":"demo123"}'</code>
+  -d '{"email":"demo@ejemplo.com","password":"demo123"}'
+```
 
 >“No puedo iniciar sesión desde esta mañana.” — cliente
  
