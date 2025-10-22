@@ -34,11 +34,11 @@
 - [ ] Instalar Android Studio y JDK
 
 ## **Responsables (tabla GFM)**
-|     Tarea             |	Responsable    |    Prioridad  |
-|:----------------------|:----------------:|--------------:|
-| Crear repo            |	Laura	       |    Alta       |
-| Configurar CI         | 	Marc	       |    Media      |
-| Instalar herramientas	|   Equipo	       |    Alta       |
+|     **Tarea**         |	    **Responsable**    |    **Prioridad**  |
+|:----------------------|:------------------------:|------------------:|
+| Crear repo            |	**Laura**	           |    **Alta**       |
+| Configurar CI         | 	Marc	               |      Media        |
+| Instalar herramientas	|   Equipo	               |    **Alta**       |
 
 ## **Definiciones (opcional)**
 
