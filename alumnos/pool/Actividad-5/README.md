@@ -1,6 +1,6 @@
 # Recursos del entorno
 Esta página reúne enlaces útiles del curso.<br>
-Usa los siguientes accesos rápidos: Ir a Descargas · Ir a Documentación
+Usa los siguientes accesos rápidos: [Ir a Descargas](Ir-a-Descargas) · [Ir a Documentación](Ir-a-Documentación)
 ## Descargas
 - **Android Studio** (inline): [Descarga](Descarga)
 - **Organización del curso** (autolink GFM): https://github.com/FP-Summa
