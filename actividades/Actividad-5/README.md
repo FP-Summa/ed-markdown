@@ -16,7 +16,7 @@ Descargas
 Android Studio (inline): Descarga
 Organización del curso (autolink GFM): https://github.com/FP-Summa
 Acerca de Android Studio
-Documentación
+## Documentación
 Gradle (inline): User Guide
 Java (referencia): consulta la documentación oficial.
 Volver al inicio
@@ -26,3 +26,5 @@ Volver al inicio
 ## Salida esperada
 ![Salida esperada](solucion1.png)
 ![Salida esperada](solucion2.png)
+
+#
