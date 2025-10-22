@@ -12,7 +12,8 @@ __Objetivo:__ preparar el entorno y dejar una demo mínima lista para enseñar.
 - Repositorio creado
 
 
-- Android Studio instalado y __JDK 21__ listo 
+
+>- Android Studio instalado y __JDK 21__ listo 
 
 - CI básico configurado
 
@@ -27,7 +28,7 @@ __Objetivo:__ preparar el entorno y dejar una demo mínima lista para enseñar.
 
 3. Demo mínima.
 
-    Una pantalla inicial que muestre Hola y un botón funcional.
+    Una pantalla inicial que muestre _Hola_ y un botón funcional.
 
 ## Checklist del sprint (GFM)
 - [x] Crear repositorio
