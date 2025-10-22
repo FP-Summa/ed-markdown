@@ -1,0 +1,25 @@
+# 🛠️ Resumen de la sesión
+
+Hoy actualizamos **Android Studio** a la versión estable y configuramos el **SDK Platform 34**.  
+Además, revisamos el **Gradle Wrapper (8.7)** y ejecutamos la app de ejemplo en un emulador
+
+----
+##  Pasos realizados
+
+1. Actualizamos Android Studio e instalamos **SDK Platform 34**.
+2. Ajustamos **Gradle** a la versión **8.7** en el proyecto.
+3. Creamos un emulador **Pixel 5**.
+4. Lanzamos la app de ejemplo **“Empty Activity”**.
+
+---
+
+##  Consejo
+
+> Documentar los pasos te ahorra tiempo mañana.
+
+---
+
+## 🧾 Comandos de referencia
+```bash
+sdkmanager --list
+./gradlew --version
