@@ -5,6 +5,7 @@ Usa los siguientes accesos rápidos: [Ir a Descargas](#descargas) · [Ir a Docum
 ## Descargas
 - **Android Studio** (inline): [Descarga](https://developer.android.com/studio/install?hl=es-419)
 - **Organización del curso** (autolink GFM): https://github.com/FP-Summa
+
 ![Acerca de Android Studio](android-about.png)
 ## Documentación
 - **Gradle** (inline): [User Guide](https://www.youtube.com/)
