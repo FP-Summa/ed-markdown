@@ -1,5 +1,5 @@
 # Resumen de la sesión
-## Hoy actualizamos  Android Studio a la versión estable y configuramos SDK Platform 34.
+## Hoy actualizamos " Android Studio " a la versión estable y configuramos SDK Platform 34.
 1. Además, revisamos el  `Gradle Wrapper `(8.7) y ejecutamos la app de ejemplo en un emulador.
 
 

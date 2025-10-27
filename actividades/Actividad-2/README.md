@@ -8,18 +8,17 @@ partiendo del `texto de partida` muestre la `Salida esperada`.
 ---
 
 ## Texto de partida
-```plaintext
-Incidencia: login devuelve 401
+## plaintexIncidencia: login devuelve 401 
 El login contra la API devuelve 401 Unauthorized pese a usar credenciales válidas.
 La conectividad con el servidor es correcta, así que revisamos la petición.
-Síntomas
+# Síntomas
 El usuario introduce credenciales válidas; la API responde 401. \
 Conectividad OK (no es un problema de red).
-Acciones
-Endpoint: POST /api/v1/login
-Cabeceras a revisar: Content-Type: application/json
+# Acciones
+Endpoint: `POST /api/v1/login `
+Cabeceras a revisar: `Content-Type: application/json`
 curl -i -X POST https://api.ejemplo.com/api/v1/login \
-  -H "Content-Type: application/json" \
+  -H "Content-Type: application/json"\
   -d '{"email":"demo@ejemplo.com","password":"demo123"}'
 “No puedo iniciar sesión desde esta mañana.” — cliente
 Conclusión
