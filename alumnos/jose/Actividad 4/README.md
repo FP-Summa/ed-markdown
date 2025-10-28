@@ -1,4 +1,4 @@
-# **modelo:Usuarios(registro login)**
+# **Modelo:Usuarios(registro login)**
 **Objetivo**: permitir **registro** y **login** con validaciones básicas.
  
 ## **Requisitos (viñetas)**
