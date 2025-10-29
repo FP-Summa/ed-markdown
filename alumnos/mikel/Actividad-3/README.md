@@ -43,8 +43,8 @@
  
 ## Responsables (tabla GFM)
  
-| Tarea                 | Responsable | Prioridad |
-|-----------------------|--------------|------------|
+| Tarea                 | Responsable  | Prioridad  |
+|:----------------------|:------------:|-----------:|
 | Crear repo            | Laura        | Alta       |
 | Configurar CI         | Marc         | Media      |
 | Instalar herramientas | Equipo       | Alta       |
