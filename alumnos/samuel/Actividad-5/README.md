@@ -1,6 +1,6 @@
 # **Recursos del entorno**
 Esta página reúne enlaces útiles del curso.
-Usa los siguientes accesos rápidos: Ir a Descargas · Ir a Documentación
+Usa los siguientes accesos rápidos: [Ir a Descargas](#1-tablas-gfm) · [Ir a Documentación](#2-tablas-gfm)
 
 ## **Descargas**
 
