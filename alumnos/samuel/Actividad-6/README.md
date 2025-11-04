@@ -1,6 +1,3 @@
-
-## Texto de partida
-```plaintext
 Guía del módulo: Usuarios
 Accesos rápidos: Resumen · Pasos · Evidencias
 Resumen
@@ -14,8 +11,5 @@ Verificar respuesta 200 OK y campos obligatorios.
 Evidencias
 Diagrama de arquitectura del módulo Respuesta 200 OK
 Volver arriba
-```
 
----
-## Salida esperada
-![Salida esperada](solucion.png)
+
