@@ -1,5 +1,5 @@
 # **Guía del módulo: Usuarios**
-Accesos rápidos: Resumen · Pasos · Evidencias
+Accesos rápidos: [Resumen](#1-tablas-gfm) · [Pasos](#2-tablas-gfm) · [Evidencias](#3-tablas-gfm)
 
 ## **Resumen**
 
