@@ -22,3 +22,9 @@ Comprobar credenciales y devolver **token** si son válidas.
 ## Definiciones (opcional)
 Hash : Función **unidireccional** para almacenar contraseñas de forma segura.
 Token : Credencial **temporal** para acceder a la API tras el login.
+
+| ```hola```       | *hola*   | **hola** |
+|:-----------------|:---------|:---------|
+| hola             | vacio    | hola     |
+|:-----------------|:---------|:---------|
+| sad              | edfa     |fesdf     |
